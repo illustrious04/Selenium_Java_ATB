@@ -1,0 +1,6 @@
+2024-12-23 18:11:44.819 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-23 18:11:57.951 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
+2024-12-23 18:12:39.408 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-23 18:12:47.292 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
+2024-12-23 18:12:57.273 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-23 18:13:00.946 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
