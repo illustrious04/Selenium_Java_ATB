@@ -17,6 +17,7 @@ public class BaseClass {
 	public WebDriver driver;
 	public Logger logger;
 
+//----------Method to Setup Browser for All Test Cases.--------------
 	@BeforeClass
 	public void setup() throws InterruptedException {
 		logger = LogManager.getLogger(this.getClass());
@@ -28,20 +29,21 @@ public class BaseClass {
 
 	}
 
+//----------Method to close the Browser for All Test Cases.--------------
 	@AfterClass
 	public void tearDown() {
 		driver.quit();
 	}
 
-	// This Method will generate a random String
-	// RandomStringUtils is a 3rd party class to generate random strings.
+//---------This Method will generate a random String---------------------
+//RandomStringGenerator is a 3rd party class to generate random strings.
 	public String RandomString() {
 		RandomStringGenerator generator = new RandomStringGenerator.Builder().withinRange('a', 'z')
 				.withinRange('A', 'Z').build();
 		return generator.generate(5);
 	}
 
-	// This Method will generate Random number.
+//--------This Method will generate Random number.-----------------------
 	public String RandomNumber(int length) {
 		Random randomNumber = new Random();
 		String result = ""; // Start with an empty string

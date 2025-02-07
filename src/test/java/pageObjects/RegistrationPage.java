@@ -39,7 +39,6 @@ public class RegistrationPage extends BasePage {
 
 	public void setFirstName(String fname) {
 		txtfirstName.sendKeys(fname);
-		;
 	}
 
 	public void setLastName(String lname) {

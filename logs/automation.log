@@ -1,6 +1,15 @@
-2024-12-23 18:11:44.819 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
-2024-12-23 18:11:57.951 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
-2024-12-23 18:12:39.408 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
-2024-12-23 18:12:47.292 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
-2024-12-23 18:12:57.273 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
-2024-12-23 18:13:00.946 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
+2024-12-24 10:44:54.182 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-24 10:44:58.415 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.
+2024-12-24 10:57:28.783 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-24 10:57:29.509 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated FirstName: NGQYO
+2024-12-24 10:57:29.509 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated LastName:XMSWR
+2024-12-24 10:57:33.065 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished Test case TC001_AccountRegistrationTest 
+2024-12-24 10:59:59.733 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-24 11:00:00.445 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated FirstName: OGVJA
+2024-12-24 11:00:00.553 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated LastName:YPTZX
+2024-12-24 11:00:04.050 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finished Test case TC001_AccountRegistrationTest 
+2024-12-24 11:03:25.089 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting Test case TC001_AccountRegistrationTest 
+2024-12-24 11:03:25.766 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated FirstName: BGNKY
+2024-12-24 11:03:25.873 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated LastName:DFDAI
+2024-12-24 11:03:25.994 [main] INFO  testCases.TC001_AccountRegistrationTest - Generated Email: ESYCQ@gmail
+2024-12-24 11:03:48.653 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed.

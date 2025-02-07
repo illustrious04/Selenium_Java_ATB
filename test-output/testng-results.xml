@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-23T18:12:53 IST" name="Default suite" finished-at="2024-12-23T18:13:01 IST" duration-ms="7670">
+  <suite started-at="2024-12-24T11:03:21 IST" name="Default suite" finished-at="2024-12-24T11:03:48 IST" duration-ms="27593">
     <groups>
     </groups>
-    <test started-at="2024-12-23T18:12:53 IST" name="Default test" finished-at="2024-12-23T18:13:01 IST" duration-ms="7670">
+    <test started-at="2024-12-24T11:03:21 IST" name="Default test" finished-at="2024-12-24T11:03:48 IST" duration-ms="27593">
       <class name="testCases.TC001_AccountRegistrationTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_AccountRegistrationTest@294425a7]" started-at="2024-12-23T18:12:53 IST" name="setup" finished-at="2024-12-23T18:12:57 IST" duration-ms="3616" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c64cb25]" started-at="2024-12-24T11:03:21 IST" name="setup" finished-at="2024-12-24T11:03:25 IST" duration-ms="3631" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@294425a7]" started-at="2024-12-23T18:12:57 IST" name="verify_account_registration" finished-at="2024-12-23T18:13:00 IST" duration-ms="3696" status="FAIL">
+        <test-method signature="verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c64cb25]" started-at="2024-12-24T11:03:25 IST" name="verify_account_registration" finished-at="2024-12-24T11:03:48 IST" duration-ms="23615" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -22,7 +22,7 @@ at org.testng.Assert.fail(Assert.java:110)
 at org.testng.Assert.failNotEquals(Assert.java:1577)
 at org.testng.Assert.assertTrue(Assert.java:56)
 at org.testng.Assert.assertTrue(Assert.java:66)
-at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:33)
+at testCases.TC001_AccountRegistrationTest.verify_account_registration(TC001_AccountRegistrationTest.java:43)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -57,7 +57,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_account_registration -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@294425a7]" started-at="2024-12-23T18:13:00 IST" name="tearDown" finished-at="2024-12-23T18:13:01 IST" duration-ms="291" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_AccountRegistrationTest@6c64cb25]" started-at="2024-12-24T11:03:48 IST" name="tearDown" finished-at="2024-12-24T11:03:48 IST" duration-ms="272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
